@@ -4,7 +4,7 @@ Submitted by: **Anthony Jerez**
 
 **Task Manager** is an app that helps users record and monitor any important upcoming tasks in a well organized manner.
 
-Time spent: **3** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
