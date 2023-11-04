@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I initially struggled with understanding the purpose of implementing UserDefaults into my project. However, after ample time using it, I quickly discovered the advantages that it has in providing a more welcoming and engaging user experience. 
 
 ## License
 
